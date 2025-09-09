@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mariya Nishat! 👋
 
-<!--
-**marianishat1-spec/marianishat1-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **fresher** passionate about learning, growing, and collaborating with others. Here you'll find a mix of my favorite projects, creative ideas, and a sprinkle of humor along the way.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗣️ **Top Skills:** Communication, Teamwork, Problem-Solving, Critical Thinking, Adaptability, Leadership, Time Management, Creativity
+- 🎮 **Hobbies:** Playing games, trying out new challenges, and making people smile with my sense of humor
+- 🛠️ **Favorite Project Areas:** Project Management, especially my [fluffy-winner](https://github.com/marianishat1-spec/fluffy-winner) repo!
+- 🤝 **Passionate About:** Working in teams, overcoming obstacles, and always learning something new
+
+## 📫 How to Reach Me
+
+- **Email:** marianishat1@gmail.com
+
+---
+
+> “I believe a good laugh and a great team can solve just about anything!”
+
+Thanks for stopping by! Feel free to connect, collaborate, or just say hi. 😊
